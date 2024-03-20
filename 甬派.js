@@ -7,8 +7,8 @@
 变量
 export ypCk=''
 export ypProxy='http://api2.xkdaili.com/tools/XApi.ashx?apikey=XK697C2D66C5DCF1FC25&qty=200&format=txt&split=0&sign=1f23568319cb1eb7cb2c56f28f6bfd53'  //代理地址
-export ypIsDraw='6D630F63F090F2A3AEFD88362EF3733D'  //是否抽奖  0不抽  1抽 默认开始抽
-export ypCdk='' 脚本卡密，找作者要
+export ypIsDraw=''  //是否抽奖  0不抽  1抽 默认开始抽
+export ypCdk='6D630F63F090F2A3AEFD88362EF3733D' 脚本卡密，找作者要
 多号 换行 隔开
 
 */
