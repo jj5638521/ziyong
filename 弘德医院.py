@@ -1,8 +1,9 @@
 '''
 https://hongdewx.rrshop.cc/
 抓openid
-多号用@隔开，青龙变量：MM_hdyy
+多号用@隔开，青龙变量：yuanshen_hdyy
 每天0.3，黑号跑不了
+
 '''
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -19,7 +20,7 @@ from Crypto.Util.Padding import pad, unpad
 
 open_id_all = ''
 if not open_id_all:
-    open_id_all = os.getenv('MM_hdyy')
+    open_id_all = os.getenv('yuanshen_hdyy')
 if not open_id_all:
     print('没有open_id,不执行')
     exit()
